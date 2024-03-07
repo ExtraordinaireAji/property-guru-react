@@ -1,0 +1,42 @@
+.main{
+    width: 100%;
+    height: 100vh;
+    background: skyblue;
+    margin: 0;
+}
+
+.main h1{
+    text-align: center;
+    /* justify-content: center; */
+    align-items: center;
+    position: absolute;
+    top: 250px;
+    left: 400px;
+    width: 500px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 34px;
+    color: #FAFAFA;
+    flex: none;
+}
+
+.btn{
+    position: absolute;
+    top: 450px;
+    left: 500px;
+}
+.btn button{
+    padding: 15px;
+    border-radius: 5px;
+    margin-left: 20px;
+    color: skyblue;
+    border: #FAFAFA;
+}
+
+.our-services h1{
+    text-align: center;
+    color: navy;
+    font-family: 'poppins';
+    margin-top: 20px;
+    background-color: whitesmoke;
+}

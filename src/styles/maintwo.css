@@ -1,0 +1,9 @@
+.carousel-item img{
+    height: 80vh;
+}
+
+.carousel-item p{
+    font-family: 'poppins';
+    font-weight: bolder;
+    color: black;
+}

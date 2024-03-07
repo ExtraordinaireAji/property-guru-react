@@ -1,0 +1,28 @@
+nav{
+    position: fixed;
+    height: 80px;
+    width: 100%;
+    background-color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+h1{
+    font-family: 'poppins', sans-serif;
+   
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    margin-right: 20px;
+    font-family: 'poppins', sans-serif;
+}
+
+.visit a{
+    text-decoration: underline;
+}
+
+span{
+    color: lightblue;
+}
