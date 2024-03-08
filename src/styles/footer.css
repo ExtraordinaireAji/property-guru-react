@@ -14,7 +14,7 @@ footer{
     padding-right: 50px;
     padding-bottom: 40px;
     font-family: 'poppins';
-    border-bottom: 2px solid darkgrey;
+   
 }
 
 .footer li{
@@ -58,12 +58,15 @@ footer{
 }
 
 .copyright{
+    width: 80%;
     display: flex;
     text-align: center;
     justify-content: center;
     padding-top: 30px;
     color: darkgrey;
     font-family: 'poppins';
+    border-top: 1px solid darkgrey;
+    margin-left: 120px;
 }
 
 .copyright p{
